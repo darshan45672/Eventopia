@@ -1,0 +1,96 @@
+.container {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #f7f7f7;
+  }
+  
+  .main {
+    padding: 5rem 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    max-width: 1200px;
+  }
+  
+  .profile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 3rem;
+  }
+  
+  .profilePhoto {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .profilePhotoImage {
+    object-fit: cover;
+  }
+  
+  .profileInfo {
+    text-align:
+    center;
+margin-top: 2rem;
+}
+
+.profileInfoName {
+font-size: 2.5rem;
+margin-bottom: 0.5rem;
+}
+
+.profileInfoBio {
+font-size: 1.5rem;
+margin-bottom: 1rem;
+}
+
+.profileInfoSocial {
+display: flex;
+justify-content: center;
+margin-top: 1rem;
+}
+
+.profileInfoSocial li {
+margin: 0 0.5rem;
+font-size: 1.5rem;
+}
+
+.profileInfoSocial li a {
+color: #333;
+}
+
+.profileInfoSocial li a:hover {
+color: #00bfff;
+}
+
+.about {
+text-align: justify;
+width: 100%;
+max-width: 800px;
+}
+
+.about h2 {
+font-size: 2.5rem;
+margin-bottom: 2rem;
+}
+
+.about p {
+font-size: 1.5rem;
+line-height: 2rem;
+margin-bottom: 2rem;
+}
+
+.footer {
+margin-top: 3rem;
+text-align: center;
+font-size: 1.2rem;
+color: #666;
+}
