@@ -1,0 +1,6 @@
+admin-ui/src/pages/Dashboard.tsx
+admin-ui/src/user/UserList.tsx
+admin-ui/src/branch/BranchList.tsx
+admin-ui/src/event/EventList.tsx
+admin-ui/src/eventRegistration/EventRegistrationList.tsx
+admin-ui/src/branch/BranchCreate.tsx
