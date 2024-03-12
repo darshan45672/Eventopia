@@ -8,6 +8,7 @@ export class ForbiddenException extends common.ForbiddenException {
   message!: string;
 }
 
+
 export class NotFoundException extends common.NotFoundException {
   @ApiProperty()
   statusCode!: number;
