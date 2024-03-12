@@ -8,3 +8,5 @@ export class EventRegistrationService extends EventRegistrationServiceBase {
     super(prisma);
   }
 }
+
+

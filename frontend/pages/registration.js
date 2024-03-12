@@ -190,7 +190,7 @@ const Registration = () => {
 
   const handleUsnBlur = (event) => {
     const value = event.target.value;
-    const regex = /^4MT(18|19|20|21|22|23)(CS|EC|ME|CV|IS)\d{3}$/; // regex for a social security number in the format xxx-xx-xxxx
+    const regex = /^4JK(20|21|22|23)(CS|EC|ME|CV|IS|AI|AD|IC)\d{3}$/; // regex for a social security number in the format xxx-xx-xxxx
 
     if (regex.test(value)) {
       toast.success("Hurray! USN is valid", {

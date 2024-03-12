@@ -7,6 +7,7 @@ import img1 from "../../assets/images/homeImage/isebg.jpg";
 
 import { useQuery, gql } from "@apollo/client";
 
+
 import Moment from 'react-moment';
 import Link from "next/dist/client/link";
 
