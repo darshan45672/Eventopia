@@ -1,6 +1,6 @@
 # Eventopia
 
-Welcome to the Events CMS, a web application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). This application allows users to register for events, register through teams, mark attendance, and sign in/signup.
+Welcome to the Eventopia, a web application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). This application allows users to register for events, register through teams, mark attendance, and sign in/signup.
 
 [](https://raw.githubusercontent.com/klientship/events_cms_frontend/main/work.png)
 
